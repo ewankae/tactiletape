@@ -1,0 +1,27 @@
+# Mac OS System Files
+.DS_Store
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Tactile App Auto-Generated Workspaces
+3D_Export_Workspace/
+Input_Frames_Workspace/
+
+# Auto-Generated Data Maps
+sensor_map.json
+
+# 3D Models and Scans
+*.usdz
+*.ply
+*.obj
+*.mtl
+*.npz
+
+# Video & Image Media Files
+*.mp4
+*.mov
+*.avi
+*.jpg
+*.png
